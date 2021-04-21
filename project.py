@@ -6,7 +6,6 @@ economics_grade = {'applied statistic': 78,
 print( economics_grade.items())
 
 print(type(economics_grade))
-
 print(len(economics_grade))
 
 economics_grade.update({'project evaluation': 81, 'advanced macro': 100 ,'economics system':70})
